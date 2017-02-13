@@ -7,17 +7,26 @@
 <item>
 <name>Kodi Addon</name>
 <link>http://Ignoreme</link>
-<thumbnail>http://1.bp.blogspot.com/-Z5LarVHjc90/VkIq8VsZ3aI/AAAAAAAAPCM/esE0dqZ9fxU/s1600/Iptv%2BLivre%2BAdd-on%2BFor%2BKodi%2BXbmc%2B1.png</thumbnail>
+<thumbnail>http://www.ares-project-blog.com/wp-content/uploads/2016/11/Happy-Movies-Featured.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
 </item>
   
   
 <item>
-<name>Sneek IPTV</name>
+<name>Sneek IPTV 1</name>
 <link>http://Ignoreme</link>
 <thumbnail>http://1.bp.blogspot.com/-Z5LarVHjc90/VkIq8VsZ3aI/AAAAAAAAPCM/esE0dqZ9fxU/s1600/Iptv%2BLivre%2BAdd-on%2BFor%2BKodi%2BXbmc%2B1.png</thumbnail>
-<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKTV.xml</externallink>
+<fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
+</item>
+  
+  
+<item>
+<name>Sneek IPTV 2</name>
+<link>http://Ignoreme</link>
+<thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
+<externallink></externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
 </item>
 

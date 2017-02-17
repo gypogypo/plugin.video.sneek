@@ -152,7 +152,7 @@ def makeRequest(url, headers=None):
                     print n,v
                     headers[n]=v
                     
-            req = urllib2.Request(url,None,headers)https://raw.githubusercontent.com/gypogypo/plugin.video.sneek/master/Sneek.xml
+            req = urllib2.Request(url,None,headers)
             response = urllib2.urlopen(req)
             data = response.read()
             response.close()

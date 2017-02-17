@@ -172,7 +172,7 @@ def getSources():
             if os.path.exists(favorites) == True:
                 addDir('Favorites','url',4,os.path.join(home, 'Images', 'favorites.png'),FANART4,'','','','')
             if addon.getSetting("browse_xml_database") == "true":
-                addDir('XML Database','https://raw.githubusercontent.com/gypogypo/plugin.video.sneek/master/Sneek.xml',15,icon1,FANART1,'','','','')
+                addDir('XML Database','https://raw.githubusercontent.com/twlizer/plugin.video.anonymous/master/Anonymous.xml',15,icon1,FANART1,'','','','')
             if addon.getSetting("browse_community") == "true":
                 addDir('Community Files','community_files',16,icon2,FANART2,'','','','')
             if addon.getSetting("searchotherplugins") :
@@ -316,7 +316,7 @@ def rmSource(name):
 
 def get_xml_database(url, browse=False):
         if url is None:
-            url = 'https://raw.githubusercontent.com/gypogypo/plugin.video.sneek/master/Sneek.xml'
+            url = 'https://raw.githubusercontent.com/twlizer/plugin.video.anonymous/master/Anonymous.xml'
         soup = BeautifulSoup(makeRequest(url), convertEntities=BeautifulSoup.HTML_ENTITIES)
         for i in soup('a'):
             href = i['href']
@@ -342,7 +342,7 @@ def get_xml_database(url, browse=False):
 
 
 def getCommunitySources(browse=False):
-        url = 'https://raw.githubusercontent.com/gypogypo/plugin.video.sneek/master/Sneek.xml'
+        url = 'https://raw.githubusercontent.com/twlizer/plugin.video.anonymous/master/Anonymous.xml'
         soup = BeautifulSoup(makeRequest(url), convertEntities=BeautifulSoup.HTML_ENTITIES)
         files = soup('ul')[0]('li')[1:]
         for i in files:

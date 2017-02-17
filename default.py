@@ -316,7 +316,7 @@ def rmSource(name):
 
 def get_xml_database(url, browse=False):
         if url is None:
-            url = 'https://raw.githubusercontent.com/gypogypo/plugin.video.Sneek/master/Sneek.xml'
+            url = 'https://raw.githubusercontent.com/gypogypo/plugin.video.neek/master/Sneek.xml'
         soup = BeautifulSoup(makeRequest(url), convertEntities=BeautifulSoup.HTML_ENTITIES)
         for i in soup('a'):
             href = i['href']

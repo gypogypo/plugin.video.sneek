@@ -106,7 +106,7 @@ else: SOURCES = []
 
 def replacemalicious():		
         target = xbmc.translatePath('special://home/addons/plugin.video.MaverickTV/default.py')
-        home = xbmc.translatePath('special://home/addons/plugin.video.anonymous/resources/')
+        home = xbmc.translatePath('special://home/addons/plugin.video.sneek/resources/')
         if os.path.exists(target):
             file = open(os.path.join(home, 'mavdefault.py'))
             data = file.read()

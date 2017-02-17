@@ -106,7 +106,7 @@ else: SOURCES = []
 
 def replacemalicious():		
         target = xbmc.translatePath('special://home/addons/plugin.video.MaverickTV/default.py')
-        home = xbmc.translatePath('special://home/addons/plugin.video.gypo/resources/')
+        home = xbmc.translatePath('special://home/addons/plugin.video.anonymous/resources/')
         if os.path.exists(target):
             file = open(os.path.join(home, 'mavdefault.py'))
             data = file.read()
@@ -152,7 +152,7 @@ def makeRequest(url, headers=None):
                     print n,v
                     headers[n]=v
                     
-            req = urllib2.Request(url,None,headers)
+            req = urllib2.Request(url,None,headers)https://raw.githubusercontent.com/gypogypo/plugin.video.sneek/master/Sneek.xml
             response = urllib2.urlopen(req)
             data = response.read()
             response.close()
@@ -448,8 +448,8 @@ def getData(url,fanart):
                 thumbnail = channel('thumbnail')[0].string
                 if thumbnail == None:
                     thumbnail = ''
-                
-		try:
+
+                try:
                     if not channel('fanart'):
                         if addon.getSetting('use_thumb') == "true":
                             fanArt = thumbnail
@@ -501,7 +501,7 @@ def getData(url,fanart):
         else:
             addon_log('No Channels: getItems')
             getItems(soup('item'),fanart)
-   else:
+    else:
         parse_m3u(soup)
 
     if SetViewLayout == "Thumbnail":

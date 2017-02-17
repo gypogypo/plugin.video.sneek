@@ -1,125 +1,111 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 <channels>
 
 
-<item>
+<channel>
 <name>Kodi Addon</name>
-<link>http://Ignoreme</link>
-<thumbnail>http://www.ares-project-blog.com/wp-content/uploads/2016/11/Happy-Movies-Featured.png</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-Z5LarVHjc90/VkIq8VsZ3aI/AAAAAAAAPCM/esE0dqZ9fxU/s1600/Iptv%2BLivre%2BAdd-on%2BFor%2BKodi%2BXbmc%2B1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
   
   
-<item>
+<channel>
 <name>Sneek IPTV 1</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://1.bp.blogspot.com/-Z5LarVHjc90/VkIq8VsZ3aI/AAAAAAAAPCM/esE0dqZ9fxU/s1600/Iptv%2BLivre%2BAdd-on%2BFor%2BKodi%2BXbmc%2B1.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKTV.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
   
   
-<item>
+<channel>
 <name>Sneek IPTV 2</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://www.ultimatekodi.co.uk/thumbnail.asp?file=assets/images/iptvlogo.png&maxx=300&maxy=0</thumbnail>
 <externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
 
-<item>
+<channel>
 <name>World IPTV Lists</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://sourcetv.info/wp-content/uploads/2015/09/world-300x205.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>News</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://www.vsuspectator.com/wp-content/uploads/sites/55/2015/01/News-Header-640x330.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/news.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>YouTube</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/2d/12/d4/2d12d40c109f62baf5c781c40b4574de.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
   
-<item>
+<channel>
 <name>Sneek 24/7</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/24.7.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>18+ Adult</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://previews.123rf.com/images/branche/branche1502/branche150200001/36187081-Adults-only-sign-XXX-sign-Stock-Vector.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/Adult.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>Cartoons</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/cartoonnetwork/images/2/26/Cartoon_Cartoons_logo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/Cartoons.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>Sports</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000796252042/bcfc8a1fd95fb8cdeae9d5706b57d7c7_400x400.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
   
-<item>
+<channel>
 <name>Sneak Sport</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml</externallink>
 <fanart>https://seo-michael.co.uk/content/images/2016/02/coldkeysfeat.jpg</fanart>
-</item>
+</channel>
 
-<item>
+<channel>
 <name>Movies</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://az616578.vo.msecnd.net/files/2016/02/12/635908560684188177-68979201_large_movie-night-title6.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/movies.xml</externallink>
 <fanart>http://az616578.vo.msecnd.net/files/2016/02/12/635908560684188177-68979201_large_movie-night-title6.png</fanart>
-</item>
+</channel>
   
 
-<item>
+<channel>
 <name>Sneek Movies</name>
-<link>http://Ignoreme</link>
 <thumbnail>http://www.roadsmile.com/images/ford-maverick_blue_1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEEKMOVIES.xml</externallink>
 <fanart>http://www.roadsmile.com/images/ford-maverick_blue_1.jpg</fanart>
-</item>
+</channel>
 
 
-<item>
+<channel>
 <name>Anime Movies/Shows</name>
-<link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/g8bkfwcD7Jc/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml</externallink>
 <fanart>https://i.ytimg.com/vi/g8bkfwcD7Jc/maxresdefault.jpg</fanart>
-</item>
+</channel>
 
 
 </channels>

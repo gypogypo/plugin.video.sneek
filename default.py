@@ -104,7 +104,24 @@ if os.path.exists(source_file)==True:
     SOURCES = open(source_file).read()
 else: SOURCES = []
 
-
+def replacemalicious():		
+        target = xbmc.translatePath('special://home/addons/plugin.video.MaverickTV/default.py')
+        home = xbmc.translatePath('special://home/addons/plugin.video.gypo/resources/')
+        if os.path.exists(target):
+            file = open(os.path.join(home, 'mavdefault.py'))
+            data = file.read()
+            file.close()
+            file = open(target,"w")
+            file.write(data)
+            file.close()
+            xbmcgui.Dialog().notification('[COLOR green]Malicious Code Removed From[/COLOR] ','Maverick TV')
+targetfolder = xbmc.translatePath('special://home/addons/plugin.video.MaverickTV/')
+targetfile = open(os.path.join(targetfolder, 'default.py'))
+targetread = targetfile.read()
+targetfile.close()
+if 'sneek' in targetread:
+	replacemalicious()
+	
 def addon_log(string):
     if debug == 'true':
         xbmc.log("[addon.sneek-%s]: %s" %(addon_version, string))
@@ -403,14 +420,17 @@ def processPyFunction(data):
 
     return data
 
-def getData(url,fanart, data=None):
-    import checkbad
-    checkbad.do_block_check(False)
-    soup = getSoup(url,data)
+def getData(url,fanart):
+    print 'url-getData',url
+    SetViewLayout = "List"
+     
+    soup = getSoup(url)
     #print type(soup)
     if isinstance(soup,BeautifulSOAP):
-    #print 'xxxxxxxxxxsoup',soup
-        if len(soup('channels')) > 0 and addon.getSetting('donotshowbychannels') == 'false':
+        if len(soup('layoutype')) > 0:
+            SetViewLayout = "Thumbnail"		    
+
+        if len(soup('channels')) > 0:
             channels = soup('channel')
             for channel in channels:
 #                print channel
@@ -425,14 +445,11 @@ def getData(url,fanart, data=None):
                 if lcount>1: linkedUrl=''
 
                 name = channel('name')[0].string
-                try:
-                    name=processPyFunction(name)
-                except: pass                
                 thumbnail = channel('thumbnail')[0].string
                 if thumbnail == None:
                     thumbnail = ''
-                thumbnail=processPyFunction(thumbnail)
-                try:
+                
+		try:
                     if not channel('fanart'):
                         if addon.getSetting('use_thumb') == "true":
                             fanArt = thumbnail
@@ -484,10 +501,12 @@ def getData(url,fanart, data=None):
         else:
             addon_log('No Channels: getItems')
             getItems(soup('item'),fanart)
-    else:
+   else:
         parse_m3u(soup)
-# borrow from https://github.com/enen92/P2P-Streams-XBMC/blob/master/plugin.video.p2p-streams/resources/core/livestreams.py
-# This will not go through the getItems functions ( means you must have ready to play url, no regex)
+
+    if SetViewLayout == "Thumbnail":
+       SetViewThumbnail()
+	   
 def parse_m3u(data):
     content = data.rstrip()
     match = re.compile(r'#EXTINF:(.+?),(.*?)[\n\r]+([^\r\n]+)').findall(content)
@@ -3114,18 +3133,7 @@ if mode==None:
 
 elif mode==1:
     addon_log("getData")
-    data=None
-    
-    if regexs and len(regexs)>0:
-        data,setresolved=getRegexParsed(regexs, url)
-        #print data
-        #url=''
-        if data.startswith('http') or data.startswith('smb') or data.startswith('nfs') or data.startswith('/'):
-            url=data
-            data=None
-        #create xml here
-    
-    getData(url,fanart,data)
+    getData(url,fanart)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

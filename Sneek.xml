@@ -14,6 +14,14 @@
 <fanart></fanart>
 <info>ASS</info>
 </channel>
+  
+<channel>
+<name>Sneek Tv</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKTV.xml</externallink>
+<fanart></fanart>
+<info>ASS</info>
+</channel>
 
 
 <channel>

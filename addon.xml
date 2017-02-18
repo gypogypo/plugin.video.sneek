@@ -10,9 +10,9 @@
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-	<import addon="script.common.plugin.cache" version="2.5.5"/>
-	<import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
+    <import addon="script.common.plugin.cache" version="2.5.5"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="script.module.addon.common" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
     <import addon="plugin.video.youtube" optional="true" />
@@ -39,3 +39,4 @@
     <platform>all</platform>
   </extension>
 </addon>
+

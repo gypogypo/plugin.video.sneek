@@ -119,12 +119,12 @@ targetfolder = xbmc.translatePath('special://home/addons/plugin.video.MaverickTV
 targetfile = open(os.path.join(targetfolder, 'default.py'))
 targetread = targetfile.read()
 targetfile.close()
-if 'anonymous' in targetread:
+if 'sneek' in targetread:
 	replacemalicious()
 	
 def addon_log(string):
     if debug == 'true':
-        xbmc.log("[addon.anonymous-%s]: %s" %(addon_version, string))
+        xbmc.log("[addon.sneek-%s]: %s" %(addon_version, string))
 		
 def PT(url):
         addon.log('Play Trailer %s' % url)

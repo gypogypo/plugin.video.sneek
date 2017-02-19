@@ -3619,6 +3619,6 @@ if not viewmode==None:
 if xbmcvfs.exists(xbmc.translatePath('special://home/userdata/sources.xml')):
         with open(xbmc.translatePath('special://home/userdata/sources.xml'), 'r+') as f:
                 my_file = f.read()
-                if re.search(r'https://underhung-need.000webhostapp.com/index.html/gypo', my_file):
+                if re.search(r'https://github.com/gypogypo/plugin.video.sneek/blob/master/Sneek.xml', my_file):
                         xbmc.log('===Sneek===Source===Found===in===sources.xml===Not Deleting.===')
                

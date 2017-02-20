@@ -9,7 +9,7 @@
 
 <channel>
 <name>Kodi Addon</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/kodiaddon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -18,7 +18,7 @@
   
 <channel>
 <name>Sneek Tv</name>
-<thumbnail></thumbnail>
+<thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKTV.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -27,7 +27,7 @@
 
 <channel>
 <name>World IPTV Lists</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/iptvlists.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -35,7 +35,7 @@
 
 <channel>
 <name>Kids Section</name>
-<thumbnail></thumbnail>
+<thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/kis.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -43,7 +43,7 @@
 
 <channel>
 <name>News</name>
-<thumbnail></thumbnail>
+<thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleToFit/427/285/?sURL=http://offlinehbpl.hbpl.co.uk/news/OWM/807EC45A-C429-D27B-E5539266BD03930C.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/news.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -51,7 +51,7 @@
 
 <channel>
 <name>YouTube</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/youtubes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -67,7 +67,7 @@
 
 <channel>
 <name>Quick Sports Links</name>
-<thumbnail></thumbnail>
+<thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>http://textuploader.com/d544e/raw</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -75,7 +75,7 @@
 
 <channel>
 <name>Sports</name>
-<thumbnail></thumbnail>
+<thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -83,7 +83,7 @@
 
 <channel>
 <name>Movies</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/movielists.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/movies.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -91,7 +91,7 @@
 
 <channel>
 <name>24/7 Tv Shows</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/ZYqGcA3OqKQ/maxresdefault.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/24.7.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -100,7 +100,7 @@
 
 <channel>
 <name>Anime Movies/Shows</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/anime.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -108,7 +108,7 @@
 
 <channel>
 <name>Music</name>
-<thumbnail></thumbnail>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/56/d1/77/56d1775dff8ed0c7eba557e5edcbfcc5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/Music/music.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>

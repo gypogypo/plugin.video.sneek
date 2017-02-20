@@ -81,13 +81,29 @@
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>http://textuploader.com/d544e/raw</externallink>
 <fanart></fanart>
-<info>ASS</info>
+<info>ASS</info>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml
 </channel>
 
 <channel>
 <name>Sports</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml</externallink>
+<fanart></fanart>
+<info>ASS</info>
+</channel>
+  
+<channel>
+<name>Sneek Sports</name>
+<thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml</externallink>
+<fanart></fanart>
+<info>ASS</info>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEEKMOVIES.xml
+</channel>
+  
+<channel>
+<name>Sneek Movies</name>
+<thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEEKMOVIES.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
 </channel>

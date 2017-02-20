@@ -9,7 +9,7 @@
 
 <channel>
 <name>Kodi Addon</name>
-<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/kodiaddon.jpg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -27,7 +27,7 @@
 
 <channel>
 <name>World IPTV Lists</name>
-<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/iptvlists.jpg</thumbnail>
+<thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -51,7 +51,7 @@
 
 <channel>
 <name>YouTube</name>
-<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/youtubes.jpg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -83,7 +83,7 @@
 
 <channel>
 <name>Movies</name>
-<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/movielists.jpg</thumbnail>
+<thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/movies.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>
@@ -97,10 +97,9 @@
 <info>ASS</info>
 </channel>
 
-
 <channel>
 <name>Anime Movies/Shows</name>
-<thumbnail>https://github.com/twlizer/plugin.video.unhenged/raw/master/art/anime.jpg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml</externallink>
 <fanart></fanart>
 <info>ASS</info>

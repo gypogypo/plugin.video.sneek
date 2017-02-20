@@ -32,6 +32,15 @@
 <fanart></fanart>
 <info>ASS</info>
 </channel>
+  
+  
+<channel>
+<name>Sneek Daily IPTV</name>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/Sneek_daily_list.xml</externallink>
+<fanart></fanart>
+<info>ASS</info>
+</channel>
 
 
 <channel>

@@ -11,7 +11,7 @@
 <channel>
 <name>Kodi Addon</name>
 <thumbnail>http://whyingo.org/wp-content/uploads/2016/01/Best-KODI-Repositories-and-Addon-List-2017-pic-3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/AddonTv.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -20,7 +20,7 @@
 <channel>
 <name>Sneek iptv</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
-<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>
+<externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -38,7 +38,7 @@
 <channel>
 <name>Sneek Daily IPTV</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/Sneek_daily_list.xml</externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/Sneek_daily_list.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -47,7 +47,7 @@
 <channel>
 <name>World IPTV Lists</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv9jDuF-0z8vd5y3Ld3fZaFGdaQ-AEJhEqatL4RbIwluhLxwQCDg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/worldtv.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -55,7 +55,7 @@
 <channel>
 <name>Kids Section</name>
 <thumbnail>https://yt3.ggpht.com/-co8gqPEZ4wg/AAAAAAAAAAI/AAAAAAAAAAA/ns5vMzc8vzM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/kis.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/kis.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -63,7 +63,7 @@
 <channel>
 <name>News</name>
 <thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleToFit/427/285/?sURL=http://offlinehbpl.hbpl.co.uk/news/OWM/807EC45A-C429-D27B-E5539266BD03930C.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/news.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/news.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -71,7 +71,7 @@
 <channel>
 <name>YouTube</name>
 <thumbnail>http://www.nottinghampost.com/images/localworld/ugc-images/276368/binaries/YouTube.JPG</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/youtube.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -80,7 +80,7 @@
 <channel>
 <name>Sneek Sports</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml</externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -88,7 +88,7 @@
 <channel>
 <name>Sneek Movies</name>
 <thumbnail>http://www.lightcast.com/images/featured_apps/roku/apps/00378_336x210.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEEKMOVIES.xml</externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEEKMOVIES.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -104,7 +104,7 @@
 <channel>
 <name>24/7 Tv Shows</name>
 <thumbnail>https://t3.ftcdn.net/jpg/01/12/88/12/240_F_112881267_xT83hGguZ0IdTpeFJt5jelIOunZQMxJA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/24.7.xml</externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/24.7.xml...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -112,7 +112,7 @@
 <channel>
 <name>Anime Movies/Shows</name>
 <thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/whatisanime-161005112151-thumbnail-4.jpg?cb=1475666563</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/anime.xml....</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -120,7 +120,7 @@
 <channel>
 <name>Music</name>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/56/d1/77/56d1775dff8ed0c7eba557e5edcbfcc5.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/Music/music.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/Music/music.xml....</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -128,7 +128,7 @@
 <channel>
 <name>Live Matchs</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>http://pastebin.com/raw/5C8FR51q</externallink>
+<externallink>http://pastebin.com/raw/5C8FR51q....</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -138,7 +138,7 @@
 <channel>
 <name>UK Sports TV</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://goo.gl/pmE3Ap</externallink>
+<externallink>https://goo.gl/pmE3Ap...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -146,7 +146,7 @@
 <channel>
 <name>Events</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://goo.gl/hUPFDG</externallink>
+<externallink>https://goo.gl/hUPFDG...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -154,7 +154,7 @@
 <channel>
 <name>Celtic FC & On Demand</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://goo.gl/KFfQLb</externallink>
+<externallink>https://goo.gl/KFfQLb...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -162,7 +162,7 @@
 <channel>
 <name>Quick Sports Links</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>http://textuploader.com/d544e/raw</externallink>
+<externallink>http://textuploader.com/d544e/raw...</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAKSPORT.xml
 </channel>
@@ -170,7 +170,7 @@
 <channel>
 <name>Sports</name>
 <thumbnail>https://yt3.ggpht.com/-A6ULdz3xFaE/AAAAAAAAAAI/AAAAAAAAAAA/8tdUukGpMjc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/sports.xml....</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>
@@ -178,7 +178,7 @@
 <channel>
 <name>18+ Adult</name>
 <thumbnail>https://uploads.disquscdn.com/images/9a2b4f5a979815701cc727d7fa6f15f39993f86e02110d94aadbfc1afd2b2040.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/Adult.xml</externallink>
+<externallink>https://raw.githubusercontent.com/twlizer/plugin.video.unhenged/master/anon/Adult.xml....</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel>

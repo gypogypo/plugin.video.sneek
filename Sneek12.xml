@@ -18,6 +18,15 @@
   
 
 <channel>
+<name>Sneek iptv hd daily</name>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
+<externallink>http://vaders.tv:80/get.php?username=noel&password=noel&type=m3u</externallink>
+<fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
+<info>ASS</info>
+</channel>
+  
+
+<channel>
 <name>Sneek iptv</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
 <externallink>http://tombraiderbuilds.co.uk/addon/ukentertainment/ukentertainment.txt</externallink>

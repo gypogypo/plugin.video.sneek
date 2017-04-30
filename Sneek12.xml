@@ -47,7 +47,7 @@
 <channel>
 <name>Sneek Daily IPTV2</name>
 <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIbX5Kwb1iQOJ6W6pdK8LZQVolTUb7dpIUFM36YAsKtvYTK_uCxg</thumbnail>
-<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAK_daily_list%20x1.xml.txt </externallink>
+<externallink>https://raw.githubusercontent.com/gypogypo/plugin.video.gypo/master/SNEAK_daily_list%20x1.xml.txt</externallink>
 <fanart>https://github.com/gypogypo/plugin.video.sneek/blob/master/fanart.jpg</fanart>
 <info>ASS</info>
 </channel> 
